@@ -1,7 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi,%20I'm%20Audax!&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:36BCF7&height=150&section=header&text=Hi,%20I'm%20Audax!&fontSize=50&fontFamily=Playfair%20Display&animation=fadeIn)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fe428e&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Builder;Always+Learning;Open+to+Collaborate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=26&weight=700&pause=1000&color=FE428E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;AI+Builder;Always+Learning;Open+to+Collaborate" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -32,4 +32,4 @@ Hello there! I'm **Audax**, a passionate Full Stack Developer and AI Builder who
   <img src="https://raw.githubusercontent.com/audax727/audax727/output/snake.svg" alt="Snake" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FE428E,100:36BCF7&height=100&section=footer)
